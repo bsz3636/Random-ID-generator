@@ -1,0 +1,7 @@
+{
+  "name": "@beata_karwowska/randomid-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "Beata Karwowska",
+  "license": "MIT"
+}
